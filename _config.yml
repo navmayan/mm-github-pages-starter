@@ -89,6 +89,10 @@ footer:
       url: "https://github.com/ProjectImplicit/pi-blog-international"
 
 
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: project-implicits-international-sites-blog
+
 defaults:
   # _posts
   - scope:
