@@ -71,6 +71,14 @@ author:
       url: "https://github.com/"
 
 
+sidebar:
+  - title: "Something"
+    image: "/assets/images/logo.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 footer:
   links:
     - label: "Twitter"
