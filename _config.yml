@@ -17,9 +17,9 @@ title: Project Implicit's International Sites
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Project Implicit's International Sites Blog
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+twitter_username: mayan_navon
+github_username: ProjectImplicit/pi-blog-international
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 author:
   #name   : "Project Implicit's International Sites"
   avatar : "/assets/images/logo.png"
-  #bio    : "Project Implicit's International Sites Blog"
+  bio    : "Project Implicit's International Sites Blog"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,7 +68,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ProjectImplicit/pi-blog-international"
 
 
 sidebar:
@@ -87,9 +87,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ProjectImplicit/pi-blog-international"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 defaults:
   # _posts
