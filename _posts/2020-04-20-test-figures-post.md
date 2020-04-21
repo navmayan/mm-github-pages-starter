@@ -1,5 +1,5 @@
 ﻿---
-layout: post
+layout: posts
 title: Test Figures Post
 author: mayan_navon
 tags: [age-iat, israel]
